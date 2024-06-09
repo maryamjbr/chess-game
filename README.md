@@ -34,7 +34,7 @@ To run the chess game on your local machine, follow these steps:
 4. Run the main class to start the game:
 
    ```bash
-   java startgame
+   java StartGame
    ```
 
 ## How to Play
